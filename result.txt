@@ -1,0 +1,9 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+
+ seen 64, trained: 83 K-images (1 Kilo-batches_64) 
+/mydrive/pan_classification/backup/test_image/t2.jpg: Predicted in 1302.629000 milli-seconds.
+FatherName: 100%	(left_x:   -6   top_y:   98   width:  291   height:   30)
+pan_no: 100%	(left_x:   10   top_y:  150   width:  176   height:   31)
+dob: 98%	(left_x:   12   top_y:  128   width:   96   height:   21)
+name: 97%	(left_x:   17   top_y:   71   width:  130   height:   28)
